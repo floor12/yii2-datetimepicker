@@ -16,7 +16,7 @@
 
 В корне вашего проекта в composer.json в раздел "require" пропишите:
 
-    "vakorovin/yii2-datetimepicker": "dev-master"
+    "floor12/yii2-datetimepicker": "dev-master"
 
 и после выполните команду:
 
@@ -24,7 +24,7 @@
 
 Или же выполните команду:
 
-    php composer.phar require --prefer-dist vakorovin/yii2-datetimepicker "dev-master"
+    php composer.phar require --prefer-dist floor12/yii2-datetimepicker "dev-master"
 
 ### Использование
 
