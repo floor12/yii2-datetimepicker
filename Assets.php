@@ -1,6 +1,6 @@
 <?php
 
-namespace floo12\datetimepicker;
+namespace floor12\datetimepicker;
 
 use yii\web\AssetBundle;
 
